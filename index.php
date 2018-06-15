@@ -1,3 +1,3 @@
 <?php
-	echo "12313131";
+	echo "zty_dev";
 ?>
