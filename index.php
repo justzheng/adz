@@ -1,3 +1,3 @@
 <?php
-	echo "zty_dev";
+	echo "zty_deqewqeqev";
 ?>
